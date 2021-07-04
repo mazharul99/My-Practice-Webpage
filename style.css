@@ -1,6 +1,15 @@
 body{
     background-color: rgb(211, 200, 200);
     font-family: 'Otomanopee One', sans-serif;
+    background-size: 100%;
+        vertical-align: top; 
+        border-left: #FFFFFF 10px solid;
+        border-right: #FFFFFF 10px solid;
+        border-top: #FFFFFF 8px solid;
+        border-bottom: #FFFFFF 25px solid;
+        padding: 25px 10px 10px 10px;
+        height:100%;
+        box-shadow: 2px 2px 20px;
 }
 
 h1{
@@ -34,4 +43,8 @@ h1{
 }
 .half-width img{
     width:100%
+}
+
+.bg-image{
+    background-image: url(images/d.png);
 }
