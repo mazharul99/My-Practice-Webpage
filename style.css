@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(211, 200, 200);
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+h1{
+    font-size: 45px;
+}
+
+.orange-color{
+    color: rgb(173, 114, 4);
+}
+
+.green-color{
+    color: rgb(3, 141, 3);
+}
+
+.link-decor{
+    text-decoration: none;
+    color:white;
+    padding: 10px 30px;
+    border-radius: 15px;
+    background-image: linear-gradient(rgba(114, 233, 114, 0.87),rgb(7, 94, 7));
+    margin-top: 50px;
+
+}
+.top-part{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+.half-width img{
+    width:100%
+}
